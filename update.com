@@ -1,0 +1,1 @@
+{'ver1':'4', 'ver2':'50', 'ver3':'\n• Base updated to 2.22.2.73\n•\n🔺Added New Features\n🔺Fixed Major problem making app unusable\n🔺Fixed crashing issue\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2021/11/fonix-wa-v2.html', 'exp845':'1', 'exp865':'1', 'exp850':'1', 'exp851':'100', 'exp860':'1', 'exp886':'250'}
