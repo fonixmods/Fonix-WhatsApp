@@ -1,1 +1,1 @@
-{'ver1':'5', 'ver2':'00', 'ver3':'\n• Base updated to 2.21.4.22\n• Re-Added Ab\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2021/11/fonix-wa-v2.html', 'exp845':'1', 'exp865':'1', 'exp850':'1', 'exp851':'100', 'exp860':'1', 'exp886':'250'}
+{'ver1':'3', 'ver2':'00', 'ver3':'\n• Base updated to 2.21.4.22\n• Re-Added Ab\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2021/11/fonix-wa-v2.html', 'exp845':'1', 'exp865':'1', 'exp850':'1', 'exp851':'100', 'exp860':'1', 'exp886':'250'}
