@@ -1,1 +1,1 @@
-{'ver1':'5', 'ver2':'10', 'ver3':'\n• Fixed so many crashes\n• Added New Features\n• Misc Other fixes and improvements \n DEVELOPED BY FONIX MODS\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2021/11/fonix-wa-v2.html', 'exp1925':'1', 'exp1930':'570'}
+{'ver1':'5', 'ver2':'10', 'ver3':'\n• Fixed so many crashes\n• Added New Features\n• Misc Other fixes and improvements \n DEVELOPED BY FONIX MODS\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2021/11/fonix-wa-v2.html'}
