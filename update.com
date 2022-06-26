@@ -1,1 +1,2 @@
-{'ver1':'5', 'ver2':'50', 'ver3':'\n• Fixed Auto Back\n• Fixed Message Delay\n• Added New Privacy Style\n• Misc Improved Extra Features Section\n• Mics Other fixes and improvements  \n DEVELOPED BY FONIX MODS\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2021/11/fonix-wa-v2.html'}
+{'ver1':'5', 'ver2':'50', 'ver3':' \n• Fixed Auto Back\n• Fixed Message Delay\n• Added New Privacy Style\n• Misc Improved Extra Features Section\n• Mics Other fixes and improvements  \n DEVELOPED BY FONIX MODS\n' , 'dli':'https://fonixmodsapkstore.blogspot.com/2021/11/fonix-wa-v2.html'
+', 'exp956':'1', 'exp957':'1', 'exp958':'1', 'exp959':'1', 'exp960':'1', 'exp961':'1', 'exp962':'1', 'exp963':'1', 'exp964':'160', 'exp965':'1000', 'exp966':'1000'}
